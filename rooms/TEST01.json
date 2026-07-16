@@ -1,0 +1,17 @@
+{
+  "code": "TEST01",
+  "host": "Mel",
+  "players": [
+    {
+      "name": "Mel",
+      "score": 0,
+      "answered": false
+    }
+  ],
+  "status": "lobby",
+  "questions": [],
+  "currentQ": 0,
+  "questionStartedAt": null,
+  "updatedAt": 1000000,
+  "createdAt": 1000000
+}
