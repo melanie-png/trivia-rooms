@@ -1,1 +1,0 @@
-{"code":"AVG67P","host":"laptop","players":[{"name":"laptop","score":0,"answered":false,"answer":null},{"name":"Phone","score":0,"answered":false,"answer":null}],"status":"playing","questions":[{"q":"Test?","a":"Yes","opts":["Yes","No"],"cat":"general","d":"easy","timer":15}],"currentQ":0,"questionStartedAt":1784459933736,"createdAt":1784459931012,"updatedAt":1784459933736}
